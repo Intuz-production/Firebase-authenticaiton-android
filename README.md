@@ -30,7 +30,7 @@ Getting Started
 - Go to the [Facebook Developers Site](https://developers.facebook.com) and follow all
   instructions to set up a new Android app.
   - When asked for a package name, use
-  `com.intuz.firebaseauth.usermanagement`.
+  `com.intuz.firebaseauth`.
   - When asked for a main class name,
   use `com.intuz.firebaseauth.FacebookLoginActivity`.
 - Go to the [Firebase Console][fir-console] and navigate to your project:
